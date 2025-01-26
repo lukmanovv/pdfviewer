@@ -7,6 +7,8 @@ const initialState = {
   file: null, 
 };
 
+const gg = 123
+
 const pdfSlice = createSlice({
   name: 'pdf',
   initialState,
